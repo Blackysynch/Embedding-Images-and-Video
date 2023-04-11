@@ -1,1 +1,41 @@
-#css
+#logo{
+    width: max(100px, 18vw);
+    aspect-ratio: 35 / 4;
+
+}
+
+#searchbar{
+    width: 350px;
+    border-radius: 10px;
+    text-align: left;
+    float: right;
+
+}
+
+#mainpart {
+    min-height: auto;
+    height: 700px;
+    width: 100%;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 100px;
+
+}
+
+#mainvideo{
+    display: inline-flexbox;
+    max-width: 60%;
+
+}
+
+#playlist {
+    min-height: 200px;
+    width: 60%;
+
+
+}
+
+input{
+    background-color: aqua;
+}
+
